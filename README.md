@@ -1,5 +1,5 @@
 # SEP11 Freedom Project
-by X
+By Kayla Weng 
 
 ## Context
 The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
@@ -14,7 +14,9 @@ Product
 Presentation
 
 ## Implications
-X
+
+I hope to achieve something that can be useful for me due to the everything things that I would be doing and forgetting
+and maybe build something to navigate something in 3-d to get a better idea of things. 
 
 ---
 
