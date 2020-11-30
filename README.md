@@ -16,8 +16,6 @@ Presentation
 ## Implications
 
 I hope to achieve something that can be useful for me due to the everything things that I would be doing and forgetting
-and maybe build something to navigate something in 3-d to get a better idea of things. 
-
 ---
 
 * [Blog Entry 1](entries/entry01.md)
