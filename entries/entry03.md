@@ -1,7 +1,11 @@
 # Entry 3
 ##### 2/21/21
 
+
 Today, I began learning how to pull content from another website to the destinated website. Since my goal is trying to builld a planner that allows motivational quotes to be at the top of the screen each time the user refreshes, I am learning the beginning code to which it can be done. I have offically learned that I need to use HTML, CSS, js,[JSON], and API to build the planner. I am now looking at how to use [jquery](https://regroove.ca/archive/2013/03/21/how-to-pull-content-via-jquery-from-another-web-site-cross-domain-and-do-it-in-sharepoint-too/) to transfer content to my website. <br>
+
+
+
 ---
 
 
