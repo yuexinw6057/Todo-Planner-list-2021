@@ -5,8 +5,8 @@ Welcome back to Entry 4. Today, I focused on designing layout that has been draw
 <hr>
 
 Below is my first layout designs with similar concepts: <br>
-<br>
-These two photos are the two plans that I have
+These two photos are the two plans that I have <br>
+
 <img src= "plannerDesign1" alt="pic1" width="100">
 
 
