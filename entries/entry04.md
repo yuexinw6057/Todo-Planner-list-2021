@@ -8,7 +8,7 @@ Below is my first layout designs with similar concepts:
 <br>
 
 These two photos are the two plans that I have
-<img src= "plannerDesign1" alt="pic1" width="50px">
+<img src= "plannerDesign1" alt="pic1" width="100">
 
 
 [Previous](entry03.md) | [Next](entry05.md)
