@@ -7,7 +7,7 @@ Welcome back to Entry 4. Today, I focused on designing layout that has been draw
 Below is my first layout designs with similar concepts: <br>
 These two photos are the two plans that I have <br>
 
-<img src= "plannerDesign1" alt="pic1" width="450"> <img "plannerDesign2" alt="img2" width="450">
+<img src= "plannerDesign1" alt="pic1" width="450"> <div style="text-align:center"><img src="plannerDesign2" alt="img2" width="450"/></div>
 
 
 [Previous](entry03.md) | [Next](entry05.md)
