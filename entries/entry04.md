@@ -1,7 +1,10 @@
 # Entry 4
-##### X/X/XX
+##### 4/25/21
 
-Text
+Welcome back to Entry 4. Today, I focused on designing layout that has been drawn out on paper. I came up with some ideas that I can potentially put in on my planner websites and I am starting to layout the skeleton of the website with HTML. I needed to jot down these ideas first before they all disappear instantously. However, I also tested out how to get API from the quote website that I will be using [here](https://rapidapi.com/ipworld/api/quotes-inspirational-quotes-motivational-quotes). Continue reading on to follow on some code snippets. 
+<hr>
+
+
 
 [Previous](entry03.md) | [Next](entry05.md)
 
