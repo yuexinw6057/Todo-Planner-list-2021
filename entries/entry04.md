@@ -8,7 +8,7 @@ Below is my first layout designs with similar concepts: <br>
 These two photos are the two plans that I have <br>
 
 <div>
-<img src= "plannerDesign1" alt="pic1" width="450"> <img src="plannerDesign2" alt="img2" width="450" style="vertical-align:center"/>
+<img src= "plannerDesign1" alt="pic1" width="430"> <img src="plannerDesign2" alt="img2" width="430" style="vertical-align:center"/>
 </div>
 
 [Previous](entry03.md) | [Next](entry05.md)
