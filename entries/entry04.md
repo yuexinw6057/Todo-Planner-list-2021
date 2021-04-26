@@ -8,7 +8,7 @@ Below is my first layout design: <br>
 
 <img src="plannerDesign2" alt="img2" width="430" style="vertical-align:center"/> <br>
 
-Using the drawing above, I created an html outline base upon the paper sketch with the following code: 
+Using the drawing above, I created an html outline base upon the paper sketch with the following code:
 ```<img src="" alt="logo"/>
     </div>
     <div>
@@ -17,19 +17,19 @@ Using the drawing above, I created an html outline base upon the paper sketch wi
   </head>
   <body>
     <div class ="container">
-    <div class="tasks"> 
-      task 1 
+    <div class="tasks">
+      task 1
     </div>
-     <div class="tasks"> 
-      task 2 
+     <div class="tasks">
+      task 2
     </div>
-     <div class="tasks"> 
-      task 3 
+     <div class="tasks">
+      task 3
     </div>
     <div id = "first">
     </div>
-    </div>``
-
+    </div>
+```
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
