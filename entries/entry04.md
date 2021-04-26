@@ -36,6 +36,7 @@ Using [W3Schools](https://www.w3schools.com/css/default.asp), I reviewed some of
 <hr>
 
 I am currently learning debugging and organizing. With an layout done on paper, I am starting to put things together with the debugging skills intacted on the way. Althought the process can be annoying sometimes, it is slowly coming together. My next steps are actually using API to my website and putting it together now.<br>
+<br>
 [Previous](entry03.md) | [Next](entry05.md)
 
 [Home](../README.md)
