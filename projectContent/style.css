@@ -1,0 +1,61 @@
+.navBarContainer{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.logopic{
+    float: left;
+    height: auto;
+    width: auto;
+    max-height: 72px;
+    max-width: 250px;
+    padding: 5px 0;
+}
+
+header{
+     background-color: #bde8b5;
+}
+
+header::after{
+    content: '';
+    display: table;
+    clear: both;
+}
+
+body{
+    margin: 0;
+    background-color: #9fbbc7;
+}
+
+nav{
+    float: right;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 100px;
+    padding-top: 27px;
+    position: relative;
+}
+
+nav a {
+    text-decoration: none;
+    color: #353c40;
+    text-transform: capitalize;
+}
+
+nav a:hover{
+    color: black;
+    font-weight: 300;
+}
+
+nav a::before{ 
+
+    
+}
