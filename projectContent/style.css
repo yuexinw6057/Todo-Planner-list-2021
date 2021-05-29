@@ -55,7 +55,16 @@ nav a:hover{
     font-weight: 300;
 }
 
-nav a::before{ 
+nav a::before{
+    content: '';
+    display: block;
+    height: 5px;
+    background-color: #9fbbc7;
+    width: 0%;
+    transition: all ease-in-out 250ms;
+}
 
-    
+nav a:hover::before{
+    width: 100%;
+
 }
