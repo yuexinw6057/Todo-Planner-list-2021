@@ -55,7 +55,20 @@ nav a:hover{
     font-weight: 300;
 }
 
-#quote { 
+nav a::before{
+    content: '';
+    display: block;
+    height: 5px;
+    background-color: #9fbbc7;
+    width: 0%;
+    transition: all ease-in-out 300ms;
+}
+
+nav a:hover::before{
+    width: 100%;
+}
+
+#quote {
     text-align: center;
     font-weight: bold;
 }
