@@ -4,33 +4,54 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-     <link rel="stylesheet" href="style.css" type="text/css">
-
-    <title>Flare</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Forum&family=Share+Tech+Mono&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+     <link rel="stylesheet" href="index.css" type="text/css">
+    <title>FLAIR</title>
+    <header class = "navbar-background">
+        <div class='navBarContainer'>
+            <img src= "" alt="logo" class="logopic">
+    
+            <nav>
+                <ul>
+                    <li> <a href="#">Home</a></li>
+                    <li> <a href="#">About</a></li>
+                    <li> <a href="#">To do list</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
 </head>
-<header>
-    <div class='navBarContainer'>
-        <img src= "SunRiseLogo.png" alt="logo" class="logopic">
 
-        <nav>
-            <ul>
-                <li> <a href="#">Home</a></li>
-                <li> <a href="#">About</a></li>
-                <li> <a href="#">To do list</a></li>
-            </ul>
-        </nav>
-    </div>
-</header>
 <body>
-     <div class = "quoteOfTheDay">
+    <div class = "quoteOfTheDay">
         <h1 id = "quote"> </h1>
         <h3 id = "author"> </h3>
     </div>
 
-    <div id = "totalTasks">
-        <li> example </li>
-
+    <header class="todoMargin">
+        <h1>X's Todo List</h1>
+    </header>
+    <!-- where the user will put in their input on what to do-->
+    <form>
+        <input type="text" class="todo-input">
+        <button class="todo-button" type="submit">
+            <i class = "fas fa-plus-square"></i>
+        </button>
+        <div class="select">
+            <select name="todos" class="filter-todo">
+                <option value="all">All</option>
+                <option value="completed">Completed</option>
+                <option value="in-progress">In progress</option>
+            </select> 
+         </div>
+    </form>
+    
+    <div class="todo-container"> 
+        <ul class="todo-list"></ul>
     </div>
+
 
  <script src="index.js"></script>
 </body>
