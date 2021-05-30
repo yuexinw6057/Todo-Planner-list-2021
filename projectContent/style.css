@@ -55,16 +55,12 @@ nav a:hover{
     font-weight: 300;
 }
 
-nav a::before{
-    content: '';
-    display: block;
-    height: 5px;
-    background-color: #9fbbc7;
-    width: 0%;
-    transition: all ease-in-out 250ms;
+#quote { 
+    text-align: center;
+    font-weight: bold;
 }
 
-nav a:hover::before{
-    width: 100%;
-
+#author {
+    text-align: center;
+    font-weight: bold;
 }
