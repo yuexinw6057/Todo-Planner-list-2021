@@ -4,12 +4,14 @@
 }
 
 .logopic{
-    float: left;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: auto;
     width: auto;
-    max-height: 72px;
-    max-width: 250px;
-    padding: 5px 0;
+    max-height: 100px;
+    max-width: 450px;
+    /*padding: 5px 0;*/
 }
 
 .navbar-background{
@@ -107,7 +109,7 @@ nav a:hover::before{
 
 form input, form button{
     /* padding: 0.5rem; */
-    font-size: 2rem;
+    font-size: 2.5rem;
     border: none;
     background: #fff48c;
 }
@@ -223,3 +225,6 @@ select{
     color: #2a7569;
 }
 
+p{
+    float:left;
+}
