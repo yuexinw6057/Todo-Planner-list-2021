@@ -13,7 +13,8 @@
 }
 
 .navbar-background{
-     background-color: #bde8b5;
+     /*background-color: #eded9a; */ /*mom color yellow */
+     background-color: #fff48c;
 }
 
 header::after{
@@ -28,7 +29,9 @@ header::after{
 
 body{
     margin: 0;
-    background-color: #9fbbc7;
+    /*background-color: #8fc451;*/ /*green -mom */
+    /*background-color: #a6cf76;*/
+    background-color: #6fd19e;
     min-height: 100vh;
 }
 
@@ -51,7 +54,7 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #353c40;
+    color: #45453b;
     text-transform: capitalize;
 }
 
@@ -64,7 +67,7 @@ nav a::before{
     content: '';
     display: block;
     height: 5px;
-    background-color: #9fbbc7;
+    background-color: #a6cf76;
     width: 0%;
     transition: all ease-in-out 300ms;
 }
@@ -77,24 +80,27 @@ nav a:hover::before{
     text-align: center;
     font-weight: bold;
     font-family: 'Share Tech Mono', monospace;
-    font-size: 26px; 
+    color: #996515;
+    font-size: 26px;
+    padding: 30px 80px 0 80px;
 }
 
 #author {
     text-align: center;
     font-style: italic;
+    color: #5c5335;
     font-family: 'Forum', cursive;
 }
 
 .todoMargin {
-    margin: 0; 
-    padding: 0; 
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
 .todoMargin, form{
-    min-height: 20vh;
-    display: flex; 
+    /*min-height: 20vh;*/
+    display: flex;
     justify-content:center;
     align-items: center;
 }
@@ -103,25 +109,25 @@ form input, form button{
     /* padding: 0.5rem; */
     font-size: 2rem;
     border: none;
-    background: #bde8b5;
+    background: #fff48c;
 }
 
 form button{
-    color: rgb(4, 56, 34);
-    background: white; 
-    cursor: pointer; 
+    color: #dbbd84;
+    background: white;
+    cursor: pointer;
     transition: all 0.3s ease;
 }
 
-form button:hover{ 
-    background:rgb(4, 56, 34);
+form button:hover{
+    background: #877a4d;
     color: white;
 }
 
 .todo-container{
-    display: flex; 
-    justify-content: center; 
-    align-items: center; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .todo-list{
     padding-inline-start: 0%;
@@ -131,13 +137,13 @@ form button:hover{
 }
 
 .todo{
-    margin: 0.5rem; 
-    background: white; 
+    margin: 0.5rem;
+    background: white;
     color: gray;
-    font-size: 1.5rem; 
-    display: flex; 
-    justify-content: space-between; 
-    align-items: center; 
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     transition: all 0.25s ease-in;
 }
 
@@ -147,10 +153,10 @@ form button:hover{
 
 .deleted-btn, .completed-btn{
     background:rgb(223, 77, 61);
-    color: white; 
+    color: white;
     border: none;
-    padding: 1rem; 
-    cursor: pointer; 
+    padding: 1rem;
+    cursor: pointer;
     font-size: 1rem;
 }
 
@@ -191,8 +197,8 @@ select{
 }
 
 select{
-    color: orchid;
-    width: 10rem; 
+    color: black;
+    width: 10rem;
     cursor: pointer;
     padding: 1rem;
 }
@@ -200,15 +206,20 @@ select{
 .select::after{
     content: "\25BC";
     position: absolute;
-    background: lightcoral;
-    top: 0; 
-    right: 0; 
+    background: #fff48c;
+    top: 0;
+    right: 0;
     padding: 1rem;
     pointer-events: none;
     transition: all 0.3 ease;
 }
 
 .select:hover::after{
-    background: rgb(82, 255, 174);
-    color:mediumorchid;
+    background: #dbbd84;
+    color: white;
 }
+
+.todo-title-style{
+    color: #2a7569;
+}
+

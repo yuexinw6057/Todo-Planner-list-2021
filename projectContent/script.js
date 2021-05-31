@@ -167,6 +167,6 @@ function removeLocalTodos(todo){
     todos = JSON.parse(localStorage.getItem('todos'));
   }
   const todoIndex = todo.children[0].innerText;
-  todos.splice(todos.todoIndexOf(todoIndex),1) //what position to remove element]
+  todos.splice(todos.indexOf(todoIndex),1) //what position to remove element]
   localStorage.setItem("todos", JSON.stringify(todos));
 }
