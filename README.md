@@ -2,7 +2,7 @@
 By Kayla Weng
 
 ## Context
-The "Freedom Project" for SEP11 is all about advance web designing with the code language Javascript. The purpose of this blog is to document the progress and process that it took for me to get to my finish product. Since the first day I started to now.
+The "Freedom Project" for SEP11 is all about advance web designing with the code language Javascript. The purpose of this blog is to document the progress and process that it took for me to get to my finish product since nce the first day I started to now.
 
 ## Content
 In this project, I will be making a local To-do/Planner list. User will be able to view their past to-do's even if the browser is closed. This blog will walk through my process of independently studying JSON and API in order to make my local to-do list.
