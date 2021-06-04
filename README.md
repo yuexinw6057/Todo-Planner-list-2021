@@ -15,7 +15,8 @@ Presentation
 
 ## Implications
 
-I hope to achieve something that can be useful for me due to the everything things that I would be doing and forgetting
+I hope to achieve an online software that can allow more efficencies in everyday tasks whether it'd be in school or somewhere else. With a planner, it will hopefully help
+with the procrastination that happens in everyday lives.
 
 ---
 
