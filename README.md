@@ -9,13 +9,14 @@ In this project, I will be making a local To-do/Planner list. User will be able 
 
 ## Links
 
-Product
+Find the Product [here](https://yuexinw6057.github.io/Todo-Planner-list-2021/projectContent/index.html)
 
 Presentation
 
 ## Implications
 
 I hope to achieve something that can be useful for me due to the everything things that I would be doing and forgetting
+
 ---
 
 * [Blog Entry 1](entries/entry01.md)
