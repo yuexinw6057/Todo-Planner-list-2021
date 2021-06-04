@@ -9,7 +9,7 @@ In this project, I will be making a local To-do/Planner list. User will be able 
 
 ## Links
 
-Find the Product [here](https://yuexinw6057.github.io/Todo-Planner-list-2021/projectContent/index.html)
+Find the Product [here](https://yuexinw6057.github.io/Todo-Planner-list-2021/projectContent/index.html) <br>
 Find _this_ page [here](https://yuexinw6057.github.io/Todo-Planner-list-2021/)
 
 Presentation
