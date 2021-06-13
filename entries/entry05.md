@@ -30,6 +30,6 @@ The skill that I developed is logical reasoning and consideration. Throughout th
 
 ## Thanks for reading!
 
-[Previous](entry04.md) | [Next](entry06.md)
+[Previous](entry04.md)
 
 [Home](../README.md)
