@@ -26,8 +26,6 @@ The code above first checks for existing files first and then if there is no exi
 
 The skill that I developed is logical reasoning and consideration. Throughout this project I had to use logical in order to connect several things together. Without one thing, the second thing of whatever I wish to do will not happen. While I was designing the UI interface, I realized that a lot of the things aren't as easy to use for the user, and so I had to redo some things to make the user interface a lot more smoother and better for usage.
 
-<br>
-
 ## Thanks for reading!
 
 [Previous](entry04.md)
