@@ -12,12 +12,11 @@ In this project, I will be making a local To-do/Planner list. User will be able 
 Find the Product [here](https://yuexinw6057.github.io/Todo-Planner-list-2021/projectContent/index.html) <br>
 Find _this_ page [here](https://yuexinw6057.github.io/Todo-Planner-list-2021/)
 
-Presentation
+[Pesentation](https://docs.google.com/presentation/d/1E9Of_eNKqu-BH1zeqcYGW7senXDAeYJ3oh9X3-eqhhI/edit?usp=sharing)
 
 ## Implications
 
-I hope to achieve an online software that can allow more efficencies in everyday tasks whether it'd be in school or somewhere else. With a planner, it will hopefully help
-with the procrastination that happens in everyday lives.
+I hope to achieve an online software that can allow more efficencies in everyday tasks whether it'd be in school or somewhere else. With a planner, it will hopefully help wth the procrastination that happens in everyday lives.
 
 ---
 
